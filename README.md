@@ -207,11 +207,11 @@ Below is an example ablation plot (`ablation.png`) showing Precision@1 and Preci
 ## Results
 
 ### Supervised Procrustes Alignment
-- Achieved approximately **48% Precision@1** and **71% Precision@5** on the held-out test set (1.5k pairs).
+- Achieved approximately **26.07% Precision@1** and **51.87% Precision@5** on the held-out test set (1.5k pairs).
 
 ### Unsupervised (Adversarial + Refinement) (Optional)
-- Initially around **15-20% Precision@1**.
-- After refinement, approximately **35% Precision@1**.
+- Initially around **0% Precision@1**.
+- After refinement, approximately **0.01% Precision@1**.
 
 ### Key Observations
 - A supervised bilingual dictionary significantly improves alignment accuracy.
